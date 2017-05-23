@@ -4,5 +4,7 @@ Thesis repository
 
 Contents:
 * [x] Introduction
-* [ ] Test 
-* [ ] Test
+* [ ] Body 
+* [ ] Conclusion
+
+Thanks! :clap:
